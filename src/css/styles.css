@@ -116,10 +116,10 @@ body {
   background-color: rgba(246, 246, 254, 0.5);
 }
 
-.simple-lightbox>button.sl-close,
-.simple-lightbox>div.sl-counter,
-.simple-lightbox>.sl-navigation>button.sl-next,
-.simple-lightbox>.sl-navigation>button.sl-prev {
+.simple-lightbox > button.sl-close,
+.simple-lightbox > div.sl-counter,
+.simple-lightbox > .sl-navigation>button.sl-next,
+.simple-lightbox > .sl-navigation>button.sl-prev {
   color: #2e2f42;
 }
 
